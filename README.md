@@ -5,3 +5,7 @@ A simple mock of UI recreated from tutorial made by dbstech [here](https://www.y
 ## Getting Started
 
 To check this project out please clone the repo and try to run it via VSC or Android studio
+
+## About Project
+
+A simple Mock of an app that I re-created to see what flutter is and how Can I use it.
