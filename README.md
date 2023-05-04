@@ -1,16 +1,7 @@
 # booking_ticket
 
-A new Flutter project.
+A simple mock of UI recreated from tutorial made by dbstech [here](https://www.youtube.com/watch?v=71AsYo2q_0Y&list=PLost5I4w3wtNYyJhYHQCrYPVfAzymuzhs&index=11&pp=gAQBiAQB)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To check this project out please clone the repo and try to run it via VSC or Android studio
