@@ -9,3 +9,7 @@ To check this project out please clone the repo and try to run it via VSC or And
 ## About Project
 
 A simple Mock of an app that I re-created to see what flutter is and how Can I use it.
+
+## Screenshots
+
+![booking_ticket](https://github.com/Franki124/booking_ticket/assets/58610160/6679bf11-967f-48bf-a07d-161d2d30b8ad)
